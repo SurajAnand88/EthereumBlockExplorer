@@ -12,7 +12,7 @@ Ethereum BlockExplorer is a simple web application that allows users to explore 
 
 ## Demo
 
-You can see the live demo of Ethereum BlockExplorer [here]((https://block-explorer-tau.vercel.app/)).
+You can see the live demo of Ethereum BlockExplorer [here](https://block-explorer-tau.vercel.app/).
 
 ## Getting Started
 
